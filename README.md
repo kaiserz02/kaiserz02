@@ -1,10 +1,10 @@
 <h1 align="center">Kim Brian De Silva</h1>
-<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;React&nbsp;|&nbsp;Angular&nbsp;|&nbsp;Azure</p>
+<p align="center"><strong>Senior Full Stack Developer</strong> · .NET&nbsp;|&nbsp;React&nbsp;|&nbsp;Angular&nbsp;|&nbsp;Azure</p>
 <p align="center">📍 Pampanga, Philippines</p>
 
 ---
 
-Senior Full Stack Engineer with **4+ years** of enterprise experience building, optimizing, and stabilizing
+Senior Full Stack Developer with **4+ years** of enterprise experience building, optimizing, and stabilizing
 mission-critical applications across financial services, tax, mobility, and HR platforms. Currently delivering
 full-stack features on an EY-wide mobility &amp; tax product as part of **EY GDS's AgilityX team**.
 
