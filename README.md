@@ -1,12 +1,17 @@
 <h1 align="center">Kim Brian De Silva</h1>
-<p align="center"><strong>Senior Full Stack Developer</strong> · .NET&nbsp;|&nbsp;React&nbsp;|&nbsp;Angular&nbsp;|&nbsp;Azure</p>
+<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;C#&nbsp;|&nbsp;React&nbsp;|&nbsp;Azure&nbsp;|&nbsp;FinTech</p>
 <p align="center">📍 Pampanga, Philippines</p>
 
 ---
 
-Senior Full Stack Developer with **4+ years** of enterprise experience building, optimizing, and stabilizing
-mission-critical applications across financial services, tax, mobility, and HR platforms. Currently delivering
-full-stack features on an EY-wide mobility &amp; tax product as part of **EY GDS's AgilityX team**.
+Full Stack Engineer with **4+ years** of experience building, maintaining, and improving production
+applications across financial services, mobility, and HR platforms. Currently a **Full Stack .NET Web and
+Mobile Application Developer at Equity Tech** in Australia — maintaining and upgrading production
+applications to **.NET 10** while improving development pipelines across multiple client projects.
+
+Previous experience includes backend development for financial technology platforms within the
+**Philippine Stock Exchange ecosystem**, focused on APIs, business logic, transactional data, database
+performance, and application security.
 
 ### 🛠️ Tech Stack
 
@@ -16,21 +21,24 @@ full-stack features on an EY-wide mobility &amp; tax product as part of **EY GDS
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 💡 What I do
 
-- 🚨 **Production incident management** &amp; root cause analysis across enterprise systems
-- ⚡ **API &amp; SQL performance optimization** — measurable latency reductions at scale
-- 📊 **Observability &amp; reliability** with Grafana, Sentry, and OpenLens
-- ☁️ **Cloud-native delivery** &amp; CI/CD automation on Azure DevOps
+- ⚡ **API &amp; SQL performance optimization** — ~60% faster trade-reporting queries; dashboards from ~8s to under 2s
+- 🔄 **Application modernization** — leading production upgrades to .NET 10
+- 📱 **Web &amp; mobile delivery** — .NET MAUI apps for iOS and Android
+- 🔐 **Application security** — OAuth 2.0, JWT, OpenID Connect, ASP.NET Core Identity
+- ☁️ **CI/CD &amp; pipelines** — Azure DevOps, Bitbucket, ClickUp
 - 🤖 **AI-assisted development** workflows (GitHub Copilot, Claude, ChatGPT)
 
 ### 🔭 Currently
 
-Building full-stack features on an EY-wide **mobility &amp; tax platform** — React · TypeScript · .NET · Azure.
+Maintaining and upgrading production .NET web and mobile applications at **Equity Tech** —
+.NET · .NET MAUI · Blazor · JavaScript · SQL.
 
 ### 🌐 Links
 
