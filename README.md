@@ -1,5 +1,5 @@
 <h1 align="center">Kim Brian De Silva</h1>
-<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;C#&nbsp;|&nbsp;React&nbsp;|&nbsp;Azure&nbsp;|&nbsp;FinTech</p>
+<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;C#&nbsp;|&nbsp;React&nbsp;|&nbsp;Azure</p>
 <p align="center">📍 Pampanga, Philippines</p>
 
 ---
@@ -39,6 +39,17 @@ performance, and application security.
 
 Maintaining and upgrading production .NET web and mobile applications at **Equity Tech** —
 .NET · .NET MAUI · Blazor · JavaScript · SQL.
+
+### 🚀 Selected Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Hughes Luxury Cars](https://www.hughes.com.au/) | National chauffeur &amp; corporate transport booking platform | .NET · .NET MAUI · Blazor · SQL |
+| [Fit Rewards](https://fitrewards.io/) | Activity-based rewards application | .NET · .NET MAUI · Blazor · SQL |
+| [Car Australia](https://www.caraustralia.com/) | Chauffeur transfer platform | .NET · .NET MAUI · Blazor · SQL |
+| [PSEConnect](https://www.pseconnect.com) | Online trading platform in the PSE ecosystem | C# · .NET Core 8 · REST APIs · MySQL |
+| [Philippine Dealing System](https://www.pds.com.ph/) | Financial market &amp; securities platforms | C# · .NET Core 8 · ASP.NET Core · MySQL |
+| [HCMevolve](https://hcmevolve.com/) | Workforce management SaaS + iOS/Android apps | .NET · Blazor · .NET MAUI · SQL |
 
 ### 🌐 Links
 
