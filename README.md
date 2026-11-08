@@ -4,7 +4,7 @@
 
 ---
 
-Full Stack Engineer with **4+ years** of experience building, maintaining, and improving production
+Full Stack Engineer with **5+ years** of experience building, maintaining, and improving production
 applications across financial services, mobility, and HR platforms. Currently a **Full Stack .NET Web and
 Mobile Application Developer at Equity Tech** in Australia — maintaining and upgrading production
 applications to **.NET 10** while improving development pipelines across multiple client projects.
