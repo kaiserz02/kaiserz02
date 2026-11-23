@@ -1,17 +1,25 @@
 <h1 align="center">Kim Brian De Silva</h1>
-<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;C#&nbsp;|&nbsp;React&nbsp;|&nbsp;Azure</p>
+<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;React&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;Azure</p>
 <p align="center">📍 Pampanga, Philippines</p>
 
 ---
 
-Full Stack Engineer with **5+ years** of experience building, maintaining, and improving production
-applications across financial services, mobility, and HR platforms. Currently a **Full Stack .NET Web and
-Mobile Application Developer at Equity Tech** in Australia — maintaining and upgrading production
-applications to **.NET 10** while improving development pipelines across multiple client projects.
+Full Stack Engineer with **5+ years** of experience building, modernizing, and supporting production
+applications across enterprise, financial services, and workforce platforms. Currently employed at
+**EY GDS Philippines** as a Full Stack Developer under the **AgilityX Team**, working on enterprise
+mobility and tax solutions as a primary frontend contributor and full-stack engineer — delivering
+case-management workflows, reusable UI infrastructure, and supporting .NET APIs.
 
-Previous experience includes backend development for financial technology platforms within the
+Earlier experience includes backend development for financial technology platforms within the
 **Philippine Stock Exchange ecosystem**, focused on APIs, business logic, transactional data, database
 performance, and application security.
+
+> **A note on the Equity Tech projects below.** My involvement with Equity Tech was through **freelance
+> project engagements**, contributing to Australian client projects — Hughes Luxury Cars, Fit Rewards,
+> and Car Australia — developing and maintaining web and mobile applications using .NET, Blazor,
+> .NET MAUI, JavaScript, and SQL. They're listed here to showcase the projects and technical experience
+> gained, and should not be read as a separate full-time position or as a replacement for my current
+> employment at EY.
 
 ### 🛠️ Tech Stack
 
@@ -28,28 +36,33 @@ performance, and application security.
 
 ### 💡 What I do
 
+- 🧩 **Enterprise frontend &amp; micro-frontends** — React 18, TypeScript, single-spa, AG Grid Enterprise
 - ⚡ **API &amp; SQL performance optimization** — ~60% faster trade-reporting queries; dashboards from ~8s to under 2s
-- 🔄 **Application modernization** — leading production upgrades to .NET 10
+- 🛠️ **Production stabilization** — 18+ enterprise applications stabilized under SLA pressure
 - 📱 **Web &amp; mobile delivery** — .NET MAUI apps for iOS and Android
 - 🔐 **Application security** — OAuth 2.0, JWT, OpenID Connect, ASP.NET Core Identity
-- ☁️ **CI/CD &amp; pipelines** — Azure DevOps, Bitbucket, ClickUp
+- ☁️ **Azure &amp; CI/CD** — Functions, Service Bus, Key Vault, Azure DevOps, GitHub Actions
 - 🤖 **AI-assisted development** workflows (GitHub Copilot, Claude, ChatGPT)
 
 ### 🔭 Currently
 
-Maintaining and upgrading production .NET web and mobile applications at **Equity Tech** —
-.NET · .NET MAUI · Blazor · JavaScript · SQL.
+**Employed at EY GDS Philippines** — building enterprise case-management capabilities on the
+**AgilityX** mobility and tax product: React 18 · TypeScript · single-spa · .NET 10 · SQL Server · Azure.
 
 ### 🚀 Selected Projects
 
+Employment projects first; freelance project engagements are marked as such.
+
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [Hughes Luxury Cars](https://www.hughes.com.au/) | National chauffeur &amp; corporate transport booking platform | .NET · .NET MAUI · Blazor · SQL |
-| [Fit Rewards](https://fitrewards.io/) | Activity-based rewards application | .NET · .NET MAUI · Blazor · SQL |
-| [Car Australia](https://www.caraustralia.com/) | Chauffeur transfer platform | .NET · .NET MAUI · Blazor · SQL |
-| [PSEConnect](https://www.pseconnect.com) | Online trading platform in the PSE ecosystem | C# · .NET Core 8 · REST APIs · MySQL |
-| [Philippine Dealing System](https://www.pds.com.ph/) | Financial market &amp; securities platforms | C# · .NET Core 8 · ASP.NET Core · MySQL |
+| EY AgilityX *(internal)* | Enterprise mobility &amp; tax case-management platform | React 18 · TypeScript · single-spa · .NET 10 · Azure |
+| Enterprise Stabilization *(internal)* | 18+ enterprise applications stabilized and enhanced | .NET 6/9 · Angular · React · Grafana · Sentry |
+| [PSEConnect](https://www.pseconnect.com) | Online trading platform in the PSE ecosystem | C# · .NET 8 · REST APIs · MySQL |
+| [Philippine Dealing System](https://www.pds.com.ph/) | Financial market &amp; securities platforms | C# · .NET 8 · ASP.NET Core · MySQL |
 | [HCMevolve](https://hcmevolve.com/) | Workforce management SaaS + iOS/Android apps | .NET · Blazor · .NET MAUI · SQL |
+| [Hughes Luxury Cars](https://www.hughes.com.au/) *(freelance)* | National chauffeur &amp; corporate transport booking platform | .NET · .NET MAUI · Blazor · SQL |
+| [Fit Rewards](https://fitrewards.io/) *(freelance)* | Activity-based rewards application | .NET · .NET MAUI · Blazor · SQL |
+| [Car Australia](https://www.caraustralia.com/) *(freelance)* | Chauffeur transfer platform | .NET · .NET MAUI · Blazor · SQL |
 
 ### 🌐 Links
 
