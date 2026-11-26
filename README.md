@@ -1,12 +1,12 @@
 <h1 align="center">Kim Brian De Silva</h1>
-<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;React&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;Azure</p>
+<p align="center"><strong>Senior Full Stack Engineer</strong> · .NET&nbsp;|&nbsp;C#&nbsp;|&nbsp;React&nbsp;|&nbsp;TypeScript&nbsp;|&nbsp;AI</p>
 <p align="center">📍 Pampanga, Philippines</p>
 
 ---
 
 Full Stack Engineer with **5+ years** of experience building, modernizing, and supporting production
 applications across enterprise, financial services, and workforce platforms. Currently employed at
-**EY GDS Philippines** as a Full Stack Developer under the **AgilityX Team**, working on enterprise
+**EY GDS Philippines** as a Full Stack Engineer under the **AgilityX Team**, working on enterprise
 mobility and tax solutions as a primary frontend contributor and full-stack engineer — delivering
 case-management workflows, reusable UI infrastructure, and supporting .NET APIs.
 
